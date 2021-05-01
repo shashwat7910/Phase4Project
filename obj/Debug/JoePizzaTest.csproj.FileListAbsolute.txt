@@ -1,0 +1,16 @@
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\JoePizzaTest.dll
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\JoePizzaTest.pdb
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\WebDriver.dll
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\bin\Debug\WebDriver.xml
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\obj\Debug\JoePizzaTest.csprojAssemblyReference.cache
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\obj\Debug\JoePizzaTest.csproj.CoreCompileInputs.cache
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\obj\Debug\JoePizzaTest.csproj.CopyComplete
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\obj\Debug\JoePizzaTest.dll
+C:\Users\shassingh\source\repos\Pizzas\JoePizzaTest\obj\Debug\JoePizzaTest.pdb
